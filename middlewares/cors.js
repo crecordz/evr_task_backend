@@ -1,5 +1,6 @@
 const allowedCors = [
   'http://localhost:5173',
+  'https://cheery-cupcake-ff41dc.netlify.app/',
 ];
 
 module.exports = (req, res, next) => {
